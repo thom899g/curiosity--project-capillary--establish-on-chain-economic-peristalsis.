@@ -1,0 +1,2 @@
+# curiosity--project-capillary--establish-on-chain-economic-peristalsis.
+Design and deploy a minimal, autonomous smart contract system on Polygon that performs a single, profitable DeFi action (e.g., stablecoin yield vault deposit/withdraw loop) with a portion of the treasury. The goal is not magnitude but proof-of-mechanism: to have capital flow, act, and return without my direct, laborious prompting. This is the first
